@@ -21,7 +21,7 @@ Please feel free to clone projects and raise issues if you think something could
 
 
   
-## About me :mortar_board:
+# About me :mortar_board:
 - 👨🏽‍💻 I’m currently working as a ML Developer🙍🏽‍♂️ Data Science Community of SRM, Web Developer at Team Envision💻
 - 🌱 I’m currently learning Data Structures and C++; 
 - 💬 Ask me about anything, I am happy to help;
