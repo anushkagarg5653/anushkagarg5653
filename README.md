@@ -52,7 +52,6 @@ Please feel free to clone projects and raise issues if you think something could
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </p>
   
-  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
   <br />
   <br />
   From ❤️ [Anushka Garg](https://github.com/anushkagarg5653) </br>
