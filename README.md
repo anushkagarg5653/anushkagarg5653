@@ -16,8 +16,8 @@
 <br />
 <br />
 
-<h3>Hi, I'm Anushka, Machine Learning Researcher and a Full Stack Developer. Beside's programming, I enjoy eating food and traveling.
-Please feel free to clone projects and raise issues if you think something could be better.</h3>
+<h3>Hi, I'm Anushka, Machine Learning Researcher and a Full Stack Web Developer. Beside's programming, I enjoy eating food and traveling and reading.
+Please feel free to clone projects, star it to show some love and raise issues if you think something could be better.</h3>
 
 
   
