@@ -22,7 +22,7 @@ Please feel free to clone projects, star it to show some love and raise issues i
 
   
 # About me :mortar_board:
-- 👨🏽‍💻 I’m currently working as a ML Developer at 🙍🏽‍♂️ Data Science Community of SRM, Web Developer at Team Envision💻
+- 👨🏽‍💻 I’m currently working as a Web Developer at Team Envision💻
 - 🌱 I’m currently learning Data Structures and Algorithms and C++; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I also write blogs on technical stuff [Check here](https://medium.com/@anushkagarg0811)
@@ -47,8 +47,7 @@ Please feel free to clone projects, star it to show some love and raise issues i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=anushkagarg5653&show_icons=true&hide_border=true)
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkagarg5653&show_icons=true&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </p>
   
