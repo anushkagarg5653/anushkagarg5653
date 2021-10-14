@@ -22,7 +22,7 @@ Please feel free to clone projects, star it to show some love and raise issues i
 
   
 # About me :mortar_board:
-- 👨🏽‍💻 I’m currently working as a Web Developer at Team Envision💻
+- 👨🏽‍💻 I’m currently working as a Technical Head at SRM Alumni Affairs💻
 - 🌱 I’m currently learning Data Structures and Algorithms and C++; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I also write blogs on technical stuff [Check here](https://medium.com/@anushkagarg0811)
