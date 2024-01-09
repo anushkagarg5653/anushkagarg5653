@@ -7,9 +7,6 @@
   <img align="left" alt="Anushka's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/___anu_shka__/">
-  <img align="left" alt="Anushka's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://medium.com/@anushkagarg0811">
   <img align="left" alt="Anushka's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -17,14 +14,14 @@
 <br />
 <br />
 
-<h3>Hi, I'm Anushka, Machine Learning Researcher and a Full Stack Web Developer. Beside's programming, I enjoy eating food and traveling and reading.
+<h3>Hi, I'm Anushka, a Full Stack Developer. Beside's programming, I enjoy eating food and traveling and reading.
 Please feel free to clone projects, star it to show some love and raise issues if you think something could be better.</h3>
 
 
   
 # About me :mortar_board:
-- 👨🏽‍💻 I’m currently working as a Technical Head at SRM Alumni Affairs💻
-- 🌱 I’m currently learning Data Structures and Algorithms and C++; 
+- 👨🏽‍💻 I’m currently looing for Full Time SDE opportunities💻
+- 🌱 I’m currently learning Data Structures and Algorithms and MERN stack 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I also write blogs on technical stuff [Check here](https://medium.com/@anushkagarg0811)
 - 📫 How to reach me: anushkagarg0811@gmail.com;
